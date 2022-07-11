@@ -1,13 +1,13 @@
-Moteur de template phpbb3 simplifié en php5-------------------------------------------
+Moteur de template phpbb3 simplifiÃ© en php5-------------------------------------------
 Url     : http://codes-sources.commentcamarche.net/source/49988-moteur-de-template-phpbb3-simplifie-en-php5Auteur  : gagah1Date    : 14/08/2013
 Licence :
 =========
 
-Ce document intitulé « Moteur de template phpbb3 simplifié en php5 » issu de CommentCaMarche
-(codes-sources.commentcamarche.net) est mis à disposition sous les termes de
+Ce document intitulÃ© " Moteur de template phpbb3 simplifiÃ© en php5 " issu de CommentCaMarche
+(codes-sources.commentcamarche.net) est mis Ã  disposition sous les termes de
 la licence Creative Commons. Vous pouvez copier, modifier des copies de cette
-source, dans les conditions fixées par la licence, tant que cette note
-apparaît clairement.
+source, dans les conditions fixÃ©es par la licence, tant que cette note
+apparaÃ®t clairement.
 
 Description :
 =============
@@ -23,7 +23,8 @@ pbb.com/docs/coding-guidelines.html#templating' target='_blank'>http://area51.ph
 pbb.com/docs/coding-guidelines.html#templating</a>&quot;.
 <br />Bonne prog.
 <b
-r /><a name='source-exemple'></a><h2> Source / Exemple : </h2>
+r /><a name='source-exemple'></a><h2> Source / Exemple : </h2>
+
 <br /><pre clas
 s='code' data-mode='basic'>
 // dans le zip

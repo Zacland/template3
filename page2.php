@@ -1,7 +1,7 @@
 <?php
 // deuxième page
 
-include('includes/template.class.php');
+include('includes/TemplatePHPBB.php');
 include('includes/functions.php');
 include('includes/config.php');
 

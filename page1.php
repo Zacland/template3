@@ -1,20 +1,21 @@
 <?php
 // première page
 
-include('includes/TemplatePHPBB.php');
+use sdFW\Template;
+
 include('includes/functions.php');
 include('includes/config.php');
 
 // on precise le repertoire où se trouve les fichiers templates et le répertoire où on met les fichiers compilés (cache)
 $template = new Template('template', 'cache');
 
-// on precise la variable langage
+// on precise la variable language
 $template->set_language_var($lang);
 
-page_header('Ma premi�re page', 'Page 1', 'PAGE1');
+page_header('Ma première page', 'Page 1', 'PAGE1');
 page_footer();
 
-// exemple liste d'article
+// exemple liste d' article
 $tab = array('Cahiers','Livres','Stylos','Crayons','Feutres','Règles','Rapporteurs','Crayons de couleurs');
 foreach($tab as $value)
 	$template->assign_block_vars('article', array(
